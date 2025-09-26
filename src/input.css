@@ -2,9 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-.sidebar{
-    background-image: url("./images/Subtract.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+.sidebar {
+  background-image: url("./images/Subtract.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.helper {
+  background-image: url("./images/bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
